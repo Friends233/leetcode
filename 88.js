@@ -1,6 +1,7 @@
 /*
  * @Description: 88.合并两个有序数组
  * @Author: Friends233
+ * @Ideas: 先移除num1多余的0，然后将两个数组合并，排序
  */
 
 const num1 = [1, 2, 3, 0, 0, 0]

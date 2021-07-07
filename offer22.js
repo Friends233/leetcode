@@ -1,6 +1,7 @@
 /*
  * @Description: 剑指 Offer 22. 链表中倒数第k个节点
  * @Author: Friends233
+ * @Ideas: 用个数组存储每个节点，然后返回对应的节点
  */
 /**
  * Definition for singly-linked list.

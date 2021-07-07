@@ -1,6 +1,7 @@
 /*
  * @Description: 有效的括号
  * @Author: Friends233
+ * @Ideas: 一个栈的思想，左括号就入栈，右括号就判断栈顶元素跟当前括号否匹配，不匹配就直接返回false，匹配就把栈顶元素移除
  */
 /**
  * @param {string} s
